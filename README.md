@@ -20,7 +20,8 @@ building my own Proxmox home lab to practice the full stack end to end.
 - [kafka-desde-cero](https://github.com/osmytatt/kafka-desde-cero) — Kafka
   from zero: KRaft broker, partitions, consumer groups, Kafka Connect.
   Schema Registry is my next lesson and will be added once I complete it
-- `fastapi-kafka-compras` — a small FastAPI producer/consumer example *(coming soon)*
+- [fastapi-kafka-compras](https://github.com/osmytatt/fastapi-kafka-compras) —
+  a small FastAPI + Kafka example: HTTP producer, background consumer
 - `proxmox-kubernetes-lab` — my Proxmox → Kubernetes → Ansible → Terraform lab *(coming soon)*
 - `sonarqube-desde-cero` — SonarQube with Docker and GitLab CI *(coming soon)*
 
